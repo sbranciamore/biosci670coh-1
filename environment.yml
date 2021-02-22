@@ -1,0 +1,9 @@
+name: biosci670
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
